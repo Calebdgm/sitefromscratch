@@ -1,0 +1,14 @@
+<HTML>
+	<HEAD>
+		<TITLE>Site from Scratch!</TITLE>
+		<META NAME="Description" CONTENT="Write a one sentence description here.">
+		<META NAME="Keywords" CONTENT="Put your keywords here. Very important for many search engines.">
+		<META NAME="Author" CONTENT="Caleb deGroot-Maggetti">
+	</HEAD>
+
+	<BODY>
+		<p>Welcome to Caleb's test website! Made from high grade, organic html!</p>
+		<p>Visit my YouTube channel <a href="https://www.youtube.com/channel/UCBvJwjrULHqFBuCL7OsN69g">here</a>!</p>
+		<p>More to come soon...</p>
+	</BODY>
+</HTML>
